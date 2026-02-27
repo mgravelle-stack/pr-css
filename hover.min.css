@@ -6,3 +6,8 @@
 .cs-chat-container a:hover {
     color: #2B333B;
 }
+#chatLaunchButton {
+  background-color: #0c967c;
+  border-radius: 50%;
+  border: none;
+}
