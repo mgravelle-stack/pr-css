@@ -6,6 +6,9 @@
 .cs-chat-container a:link {
     color: #b51d27;
 }
+.cs-chat-container a:visited {
+      color: #b51d27;
+    }
 .cs-chat-container a:hover {
     color: #191919;
 }
