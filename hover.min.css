@@ -3,19 +3,15 @@
     background-color: #0c967c;
     font-size: x-large;
 }
-
 .cs-chat-container a:link {
     color: #076afb;
 }
-
 .cs-chat-container a:visited {
     color: #076afb;
 }
-
 .cs-chat-container a:hover {
     color: #021519;
 }
-
 .pr-conversation-popper-button:focus-visible {
   outline: 3px solid #ffffff;
   outline-offset: 2px;
