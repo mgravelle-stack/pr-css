@@ -3,8 +3,17 @@
     background-color: #0c967c;
     font-size: x-large;
 }
+
+.cs-chat-container a:link {
+    color: #257eff;
+}
+
+.cs-chat-container a:visited {
+    color: #257eff;
+}
+
 .cs-chat-container a:hover {
-    color: #2B333B;
+    color: #257eff;
 }
 #chatLaunchButton {
   background-color: #0c967c;
